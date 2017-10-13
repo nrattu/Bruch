@@ -4,7 +4,7 @@ Created on 27.12.2013
 @author: uhs374h
 """
 import unittest
-from Bruch import bruch
+from bruch import *
 
 
 class TestAddition(unittest.TestCase):
